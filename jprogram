@@ -1,3 +1,0 @@
-   3 : 0 
-'a b c'=.y
->('Error';'Equilateral';'Isosceles'){~(#~.a,b,c)8180=a+b+c)
